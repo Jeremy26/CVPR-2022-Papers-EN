@@ -143,7 +143,7 @@ Image Animation
 <a name="47"/>
 
 ## 47.Few/Zero-Shot Learning/Domain Generalization/Adaptation
-* Small sample
+* Few-Shot
   * [Few-shot Learning with Noisy Labels](https://arxiv.org/abs/2204.05494)
   * [Pushing the Limits of Simple Pipelines for Few-Shot Learning: External Data and Fine-Tuning Make a Difference](https://arxiv.org/abs/2204.07305)<br>:house:[project](https://hushell.github.io/pmf/):tv:[video](https://youtu.be/iEC9lh18laQ)
   * [Few-shot Backdoor Defense Using Shapley Estimation](https://arxiv.org/abs/2112.14889)<br>:newspaper:[here](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
@@ -413,13 +413,13 @@ Image Animation
 * Image Classification
   * [DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification](https://arxiv.org/abs/2203.12081)<br>:star:[code](https://github.com/hrzhang1123/DTFD-MIL)
   * [Contrastive Test-Time Adaptation](https://arxiv.org/abs/2204.10377)<br>:house:[project](https://sites.google.com/view/adacontrast)
-* Small Sample Classification
+* Few-Shot Classification
   * [CAD: Co-Adapting Discriminative Features for Improved Few-Shot Classification](https://arxiv.org/abs/2203.13465)
   * [Matching Feature Sets for Few-Shot Image Classification](https://arxiv.org/abs/2204.00949)<br>:star:[code](https://github.com/ArmanAfrasiyabi/SetFeat-fs):house:[project](https://lvsn.github.io/SetFeat/):tv:[video](https://www.youtube.com/embed/)
   * [Joint Distribution Matters: Deep Brownian Distance Covariance for Few-Shot Classification](https://arxiv.org/abs/2204.04567)<br>:open_mouth:oral:star:[code](https://github.com/Fei-Long121/DeepBDC):house:[project](http://www.peihuali.org/DeepBDC/):newspaper:[here](https://zhuanlan.zhihu.com/p/497009845) 
   * [Learning to Affiliate: Mutual Centralized Learning for Few-shot Classification](https://arxiv.org/abs/2106.05517)<br>:newspaper:[here](https://mp.weixin.qq.com/s/Ao_kZlAW_AqPcMdXg2Zerg)
   * [Generating Representative Samples for Few-Shot Classification](https://arxiv.org/abs/2205.02918)<br>:star:[code](https://github.com/cvlab-stonybrook/fsl-rsvae)<br>:newspaper:[here](https://zhuanlan.zhihu.com/p/511390027)<br>SOTA。
-  * Small Sample Classification & Segmentation(FS-CS)
+  * Few-Shot Classification & Segmentation(FS-CS)
     * [Integrative Few-Shot Learning for Classification and Segmentation](https://arxiv.org/abs/2203.15712)
 * Long Tail Recognition
   * [Nested Collaborative Learning for Long-Tailed Visual Recognition](https://arxiv.org/abs/2203.15359)
@@ -872,7 +872,7 @@ Image Animation
   * [SOS! Self-supervised Learning Over Sets Of Handled Objects In Egocentric Action Recognition](https://arxiv.org/abs/2204.04796)
   * Zero-Shot Action Recognition
     * [Cross-modal Representation Learning for Zero-shot Action Recognition](https://arxiv.org/abs/2205.01657)<br>:star:[code](https://github.com/microsoft/ResT)<br>
-  * Small Sample Action Recognition
+  * Few-Shot Action Recognition
     * [Hybrid Relation Guided Set Matching for Few-shot Action Recognition](https://arxiv.org/abs/2204.13423)<br>:star:[code](https://github.com/alibaba-mmai-research/HyRSM):newspaper:[here](https://zhuanlan.zhihu.com/p/507053208)
   * Sequence Action Detection
     * [An Empirical Study of End-to-End Temporal Action Detection](https://arxiv.org/abs/2204.02932)<br>:star:[code](https://github.com/xlliu7/E2E-TAD):newspaper:[paper](https://zhuanlan.zhihu.com/p/494237617)
@@ -981,11 +981,11 @@ Image Animation
 * [Progressive End-to-End Object Detection in Crowded Scenes](https://arxiv.org/abs/2203.07669)<br>:star:[code](https://github.com/megvii-research/Iter-E2EDET)<br>:newspaper:[paper](https://mp.weixin.qq.com/s/kZue3ds348UXQI86xrwudQ)
 * [HCSC: Hierarchical Contrastive Selective Coding](https://arxiv.org/abs/2202.00455)<br>:star:[code](https://github.com/gyfastas/HCSC)<br>:newspaper:[SOTA：上交、Mila](https://mp.weixin.qq.com/s/XQodgVDIl40otl64wpHutg)
 * [Recurrent Glimpse-based Decoder for Detection with Transformer](https://arxiv.org/abs/2112.04632)<br>:open_mouth:oral:star:[code](https://github.com/zhechen/Deformable-DETR-REGO)<br>:newspaper:[paper](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
-* Small Sample Target Detection  
+* Few-Shot Target Detection  
   * [Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection](https://arxiv.org/abs/2203.13903)
   * [Few-Shot Object Detection with Fully Cross-Transformer](https://arxiv.org/abs/2203.15021)
 * 目标定位
-  * [Weakly Supervised Object Localization as Domain Adaption](https://arxiv.org/abs/2203.01714)<br>:star:[code](https://github.com/zh460045050/DA-WSOL_CVPR2022):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
+  * [Weakly Supervised Object Localization as Domain Adaption](https://arxiv.org/abs/2203.01714)<br>:star:[code](https://github.com/zh460045050/DA-WSOL_CVPR2022):newspaper:[paper](https://zhuanlan.zhihu.com/p/475067096)
   * [Bridging the Gap between Classification and Localization for Weakly Supervised Object Localization](https://arxiv.org/abs/2204.00220)
   * [Object Localization under Single Coarse Point Supervision](https://arxiv.org/abs/2203.09338)<br>:star:[code](https://github.com/ucas-vg/PointTinyBenchmark/)<br>:newspaper:[paper](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
 * 3D Object Detection
