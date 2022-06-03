@@ -1147,6 +1147,8 @@ Image Animation
 * Cutout
   * [Human Instance Matting via Mutual Guidance and Multi-Instance Refinement](https://arxiv.org/abs/2205.10767)<br>:open_mouth:oral:star:[code](https://github.com/nowsyn/InstMatt)
 
+👉🏼 Learn Image Segmentation here: [https://courses.thinkautonomous.ai/image-segmentation](https://courses.thinkautonomous.ai/image-segmentation)
+
 <a name="1"/>
 
 ## 1.Other
