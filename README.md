@@ -19,9 +19,9 @@ Website：https://cvpr2022.thecvf.com/
 |[37.Contrastive Learning](#37)|[38.Meta-Learning](#38)|[39.Continual Learning](#39)|[40.Adversarial Learning](#40)|
 |[41.Incremental Learning](#41)|[42.Metric Learning](#42)|[43.Multi-Task Learning](#43)|[44.Federated Learning](#44)|
 |[45.Dense Prediction](#45)|[46.Scene Graph Generation](#46)|[47.Few/Zero-Shot Learning/Domain Generalization/Adaptation](#47)|[48.Visual Grounding](#48)|
-|[49.Image Geo-localization](#49)|[50.Anomaly Detection](#50)|[51](#51)|[52.Human Motion Forecasting](#52)|
+|[49.Image Geo-localization](#49)|[50.Anomaly Detection](#50)|[51. Optical, Light Field Imaging](#51)|[52.Human Motion Forecasting](#52)|
 |[53.Sign Language Translation](#53)|[54.Dataset](#54)|[55.Novel View Synthesis](#55)|[56.Sound](#56)|
-|[57.Gaze Estimation](#57)|[58.Neural rendering](#58)|[59.](#59)|[60.Visual Emotion Analysis](#60)|
+|[57.Gaze Estimation](#57)|[58.Neural rendering](#58)|[59. Animation](#59)|[60.Visual Emotion Analysis](#60)|
 
 
 ## Machine Translation
